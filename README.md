@@ -27,7 +27,7 @@ The following NuGet packages were added to the project:
 
 |Package|Description|
 |---|---|
-|Microsoft.Azure.Management.Media|Azure Media Services SDK|
+|Microsoft.Azure.Management.Media|Azure Media Services SDK. <br/>To make sure you are using the latest Azure Media Services package, check [Microsoft.Azure.Management.Media](https://www.nuget.org/packages/Microsoft.Azure.Management.Media).|
 |Microsoft.Rest.ClientRuntime.Azure.Authentication|ADAL authentication library for Azure SDK for NET|
 |Microsoft.Extensions.Configuration.EnvironmentVariables|Read configuration values from environment variables and local JSON files|
 |Microsoft.Extensions.Configuration.Json|Read configuration values from environment variables and local JSON files
