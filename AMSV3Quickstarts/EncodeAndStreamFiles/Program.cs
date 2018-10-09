@@ -103,7 +103,7 @@ namespace EncodeAndStreamFiles
                 }
             }
 
-            Console.WriteLine("Done. Copy and paste the Streaming URL into the Azure Media Player at 'http://aka.ms/azuremediaplayer'.");
+            Console.WriteLine("Done. Copy and paste one of the Streaming URLs into the Azure Media Player at 'http://aka.ms/azuremediaplayer'.");
         }
         // </RunAsync>
 
