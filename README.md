@@ -6,7 +6,7 @@ author: Juliako
 
 # Azure Media Services v3 quickstart starter samples
 
-The project in this repository was created using Visual Studio 2017. It targets netcoreapp2.0. The code in the project uses 'async main', which is avaiable starting with C# 7.1. See [this blog](https://blogs.msdn.microsoft.com/benwilli/2017/12/08/async-main-is-available-but-hidden/) for more details.
+The project in this repository was created using Visual Studio 2017. It targets netcoreapp2.0. The code in the project uses 'async main', which is available starting with C# 7.1. See [this blog](https://blogs.msdn.microsoft.com/benwilli/2017/12/08/async-main-is-available-but-hidden/) for more details.
 
 The project supports the Azure Media Services v3 quickstarts article:
 
