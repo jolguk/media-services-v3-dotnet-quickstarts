@@ -3,6 +3,7 @@ topic: sample
 languages:
   - csharp
 products:
+  - azure
   - azure-media-services
 ---
 
