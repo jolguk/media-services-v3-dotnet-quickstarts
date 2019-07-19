@@ -1,10 +1,10 @@
 ---
 page_type: sample
 languages:
-  - csharp
+- csharp
 products:
-  - azure
-  - azure-media-services
+- azure
+- azure-media-services
 description: "The project supports the Azure Media Services v3 quickstarts article on docs.microsoft.com."
 ---
 
