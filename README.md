@@ -22,7 +22,7 @@ The project supports the Azure Media Services v3 quickstarts article:
 
 To run samples in this repository, you need:
 
-* Visual Studio 2017.  
+* Visual Studio 2017 or Visual Studio Code
 * An Azure Media Services account. See the steps described in [Create a Media Services account](https://docs.microsoft.com/azure/media-services/latest/create-account-cli-quickstart).
 
 ## NuGet packages 
