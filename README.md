@@ -4,8 +4,8 @@ languages:
 - csharp
 products:
 - azure
-- azure-media-services
-description: "The project supports the Azure Media Services v3 quickstarts article on docs.microsoft.com."
+description: "The project in this repository was created using Visual Studio 2017. It targets netcoreapp2.0. The code in the project uses 'async main',"
+urlFragment: media-services-v3-dotnet-quickstarts
 ---
 
 # Azure Media Services v3 quickstart starter samples
