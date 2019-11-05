@@ -10,10 +10,11 @@ urlFragment: media-services-v3-dotnet-quickstarts
 
 # Azure Media Services v3 quickstart starter samples
 
----
-**NOTE**
+## NOTE
+ 
 You can find the latest and most extensive .NET samples in the [Azure Media Services v3](https://github.com/Azure-Samples/media-services-v3-dotnet) repository.
----
+
+## Overview
 
 The project in this repository was created using Visual Studio 2017. It targets netcoreapp2.0. The code in the project uses 'async main', which is available starting with C# 7.1. See [this blog](https://blogs.msdn.microsoft.com/benwilli/2017/12/08/async-main-is-available-but-hidden/) for more details.
 
